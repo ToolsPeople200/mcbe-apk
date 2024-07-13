@@ -1,11 +1,22 @@
+![MCBE-APK Logo](assets/mcbe.png)
+
 # MCBE-APK Dev Team
-We typically strive to publish Minecraft PE as quickly as it is available to us. Here, we will be posting all Minecraft Bedrock APKs without any issues, for as long as we are alive.
 
-# MCBE-APK Releases
-- When an update comes out we will update in hours or days.
-- We patch some stuff of the app, even the code.
+Welcome to the MCBE-APK repository! We are dedicated to providing the latest Minecraft PE (Bedrock Edition) APKs as quickly as possible.
 
-# Note
-Everything is under construction here for now, so we will be updating the repository a bit.
+## Mission
+Our mission is to ensure that every update for Minecraft Bedrock is available here, promptly and without any issues, for as long as we are around.
 
-Att: Xzyyy & Lisa
+## MCBE-APK Releases
+
+- **Rapid Updates:** We update the repository with new releases within hours or days of an update.
+- **Patching:** We provide patches for various aspects of the app, including the code itself, to ensure optimal performance and compatibility.
+
+## Note
+
+This repository is currently under construction. Please bear with us as we make improvements and updates.
+
+---
+
+_Att:_  
+**Xzyyy & Lisa**
