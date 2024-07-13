@@ -2,7 +2,7 @@
 
 # MCBE-APK Dev Team
 
-Welcome to the MCBE-APK repository! We are dedicated to providing the latest Minecraft PE (Bedrock Edition) APKs as quickly as possible.
+Welcome to the MCBE-APK repository! We are dedicated to providing the latest [Minecraft PE (Bedrock Edition)](https://github.com/ToolsPeople200/mcbe-apk/releases) APKs as quickly as possible.
 
 ## Mission
 Our mission is to ensure that every update for Minecraft Bedrock is available here, promptly and without any issues, for as long as we are around.
