@@ -1,6 +1,6 @@
 # Minecraft:PE Pirated (Android) + (Free Download)
 
-![MCBE Logo](assets/image)
+![MCBE Logo](assets/mcbe.png)
 
 ## About-us
 
