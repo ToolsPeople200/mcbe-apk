@@ -1,3 +1,5 @@
+⚠️ `Not longer working in it - we will keep doing it privately`
+
 # Minecraft:PE Pirated (Android) + (Free Download)
 
 ![MCBE Logo](assets/mcbe1.png)
